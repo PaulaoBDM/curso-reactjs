@@ -1,0 +1,17 @@
+
+.pagina-contato{
+   h2:hover{
+        color: red;
+        cursor: pointer;
+        
+   }
+    .titulo{
+    color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px ;
+    transition: ease 0.9s;
+    } 
+}
+
